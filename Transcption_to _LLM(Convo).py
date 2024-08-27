@@ -79,7 +79,7 @@ def main():
     # Initialize the Hugging Face Inference Client
     client = InferenceClient(
         "mistralai/Mistral-7B-Instruct-v0.1",
-        token="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",
+        token="hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     )
 
     def record_callback(_, audio: sr.AudioData):
