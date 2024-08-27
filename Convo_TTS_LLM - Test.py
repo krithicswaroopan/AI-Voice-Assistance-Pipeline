@@ -155,7 +155,7 @@ async def process_audio(args):
     try:
         client = InferenceClient(
             "mistralai/Mistral-7B-Instruct-v0.1",  # Set the model to use
-            token="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",  # Set the API token
+            token="hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",  # Set the API token
         )
     except Exception as e:
         print(f"Error initializing InferenceClient: {e}")  # Print error message if client initialization fails
