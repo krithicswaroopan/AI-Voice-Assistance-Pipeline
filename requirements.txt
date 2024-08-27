@@ -1,0 +1,11 @@
+argparse
+numpy
+speechrecognition
+whisper
+torch #Refer https://pytorch.org/ CUDA Installation.
+webrtcvad
+huggingface_hub
+transformers
+edge-tts
+playsound
+pydub

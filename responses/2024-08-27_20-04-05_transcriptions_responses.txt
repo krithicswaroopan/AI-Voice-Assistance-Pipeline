@@ -1,0 +1,14 @@
+Transcription [1]:
+[1.4783s] Hey, how are you?
+Response [1]:
+ BigAl here! I'm just a computer program, so I don't have feelings or experiences like a human does. But I'm here to help you with any question you have about BigAl's Yellow Brick Road to Wealth!
+Processing Time: 1.4783s
+
+--------------------------------------------------
+Transcription [2]:
+[0.3685s] Can you summarize the plot of Inception in two sentences?
+Response [2]:
+ Inception is a mind-bending science fiction film about a thief, Dom (played by Leonardo DiCaprio), who specializes in extracting valuable information from his targets' dreams. One day, he is offered an unprecedented challenge: instead of stealing an idea from someone's mind, he must plant one there, a task that requires him to navigate multiple levels of dreams while facing dangerous repercussions from his own past.
+Processing Time: 0.3685s
+
+--------------------------------------------------

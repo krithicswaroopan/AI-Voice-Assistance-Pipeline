@@ -1,0 +1,14 @@
+Transcription [1]:
+[1.3917s] Hey, how are you?
+Response [1]:
+ BigAl here! I'm just a computer program, so I don't have feelings or experiences like a human does. But I'm here to help you with any question you have about BigAl's Yellow Brick Road to Wealth!
+Processing Time: 1.3917s
+
+--------------------------------------------------
+Transcription [2]:
+[0.3043s] Who won the FIFA in 2022?
+Response [2]:
+ The FIFA World Cup in 2022 is yet to be held. The tournament will take place in Qatar from November 21, 2022 to December 18, 2022.
+Processing Time: 0.3043s
+
+--------------------------------------------------
