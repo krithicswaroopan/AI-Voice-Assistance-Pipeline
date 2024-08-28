@@ -85,7 +85,6 @@ This repository implements a conversational AI pipeline that converts voice inpu
   - `Convo_TTS_LLM - Main.py`: Main script for the conversational pipeline.
   - `Convo_TTS_LLM - Test.py`: Test script for verifying the pipeline.
   - `hello.mp3`: Example MP3 file for testing.
-  - `LLM-TTS.ipynb`: Jupyter notebook for integrating LLM and TTS.
   - `requirements.txt`: List of Python dependencies.
   - `Transcption_to _LLM(Convo).ipynb`: Jupyter notebook for transcription and LLM interaction.
   - `Transcption_to _LLM(Convo).py`: Python script for transcription and LLM interaction.
