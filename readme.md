@@ -100,6 +100,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   - Mistral-7B-Instruct from Hugging Face
   - Edge-TTS for text-to-speech synthesis
 
-For any questions or issues, please contact your-email@example.com.
+For any questions or issues, please contact krithicswaropan.mk@gmail.com.
 
 #
